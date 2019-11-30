@@ -1,3 +1,3 @@
 Ongoing Modify 
 ## Snapshot
-![bg](https://user-images.githubusercontent.com/42711913/69896506-0b0d6d80-138c-11ea-9df9-9fbcd4d7d58a.jpg)
+<img width="1169" alt="Screen Shot 2019-11-30 at 4 12 13 PM" src="https://user-images.githubusercontent.com/42711913/69896522-4e67dc00-138c-11ea-81d9-971a979b29d1.png">
